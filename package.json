@@ -1,0 +1,38 @@
+{
+  "name": "dantalian",
+  "version": "0.4.6",
+  "description": "A nfo file generator for your anime. Source from https://bangumi.tv/.",
+  "author": "Nanozuki Crows <nanozuki.crows@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nanozuki/dantalian"
+  },
+  "homepage": "https://github.com/nanozuki/dantalian",
+  "type": "module",
+  "bin": {
+    "dantalian": "./bin/dantalian.js"
+  },
+  "main": "./src/lib.js",
+  "exports": {
+    ".": "./src/lib.js",
+    "./package.json": "./package.json"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "bin",
+    "src",
+    "scripts",
+    "LICENSE",
+    "README.md",
+    "README_cn.md"
+  ],
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "completions": "node scripts/gen-completions.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

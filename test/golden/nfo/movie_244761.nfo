@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+    <title>剧场版 白箱</title>
+    <originaltitle>劇場版 SHIROBAKO</originaltitle>
+    <ratings>
+        <rating name="bangumi" max="10" default="true">
+            <value>7.5</value>
+            <votes>6182</votes>
+        </rating>
+    </ratings>
+    <plot>总有一天不论如何都要一起制作动画——上山高中动画同好会的5人向葫芦屋的甜甜圈如此起誓。她们毕业以后，分别在各自的岗位从事动画制作，并通过《第三飞行少女队》而接近了自己的梦想。
+4年后——。在动画的世界找到了自己的容身之所、逐渐成长起来的5人，开始面对新的苦恼和试炼。</plot>
+    <thumb aspect="poster" preview="https://lain.bgm.tv/pic/cover/l/12/f3/244761_tGK1D.jpg">https://lain.bgm.tv/pic/cover/l/12/f3/244761_tGK1D.jpg</thumb>
+    <uniqueid type="bangumi" default="true">244761</uniqueid>
+    <premiered>2020-02-29</premiered>
+</movie>

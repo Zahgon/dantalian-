@@ -1,0 +1,3206 @@
+{
+  "status": 200,
+  "body": {
+    "data": [
+      {
+        "date": "2013-03-02",
+        "platform": "剧场版",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/ba/54675_df9sF.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/ba/54675_df9sF.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/4c/ba/54675_df9sF.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/ba/54675_df9sF.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/ba/54675_df9sF.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/4c/ba/54675_df9sF.jpg",
+        "summary": "文化庁若手アニメーター育成プロジェクト『アニメミライ2013』\r\n\r\n从小受到魔法秀影响，喜欢上魔法的篝敦子，如愿进入了欧洲的魔女育成名校《露娜诺娃魔法学校》。与当初所期待的不同，每天千篇一律的枯燥课程令敦子非常失望。想要打破这种沉闷、保守的气氛，为了取回属于魔法的梦想而努力的敦子，等待着她的却是来自周围的冷眼与嘲笑， 学业也遭遇种种不顺。一直支持着敦子只有同班的好友洛蒂和苏西。\r\n在这样的日常中，学校发生了不得了的大事件。而意想不到的是，解决事件的关键竟然掌握在敦子的手中！为了避免学校崩坏，敦子、洛蒂和苏西面对危机，勇往直前!",
+        "name": "リトルウィッチアカデミア",
+        "name_cn": "小魔女学园",
+        "tags": [
+          {
+            "name": "TRIGGER",
+            "count": 1436,
+            "total_count": 41140
+          },
+          {
+            "name": "OVA",
+            "count": 1050,
+            "total_count": 366161
+          },
+          {
+            "name": "吉成曜",
+            "count": 952,
+            "total_count": 5154
+          },
+          {
+            "name": "原创",
+            "count": 819,
+            "total_count": 622506
+          },
+          {
+            "name": "2013",
+            "count": 798,
+            "total_count": 69101
+          },
+          {
+            "name": "魔法",
+            "count": 409,
+            "total_count": 20104
+          },
+          {
+            "name": "奇幻",
+            "count": 388,
+            "total_count": 474005
+          },
+          {
+            "name": "剧场版",
+            "count": 339,
+            "total_count": 726794
+          },
+          {
+            "name": "青年动画制作者育成计划",
+            "count": 318,
+            "total_count": 1839
+          },
+          {
+            "name": "短片",
+            "count": 272,
+            "total_count": 102610
+          },
+          {
+            "name": "动画未来",
+            "count": 271,
+            "total_count": 1679
+          },
+          {
+            "name": "小魔法学园",
+            "count": 174,
+            "total_count": 177
+          },
+          {
+            "name": "百合",
+            "count": 150,
+            "total_count": 404409
+          },
+          {
+            "name": "日本",
+            "count": 64,
+            "total_count": 299487
+          },
+          {
+            "name": "大島ミチル",
+            "count": 61,
+            "total_count": 511
+          },
+          {
+            "name": "校园",
+            "count": 55,
+            "total_count": 455666
+          },
+          {
+            "name": "小魔女学园",
+            "count": 45,
+            "total_count": 1515
+          },
+          {
+            "name": "搞笑",
+            "count": 35,
+            "total_count": 641219
+          },
+          {
+            "name": "魔法少女",
+            "count": 28,
+            "total_count": 36920
+          },
+          {
+            "name": "战斗",
+            "count": 26,
+            "total_count": 474033
+          },
+          {
+            "name": "2013年3月",
+            "count": 25,
+            "total_count": 488
+          },
+          {
+            "name": "2013年",
+            "count": 21,
+            "total_count": 3979
+          },
+          {
+            "name": "魔女",
+            "count": 19,
+            "total_count": 1871
+          },
+          {
+            "name": "大塚雅彦",
+            "count": 18,
+            "total_count": 125
+          },
+          {
+            "name": "日常",
+            "count": 15,
+            "total_count": 402249
+          },
+          {
+            "name": "治愈",
+            "count": 14,
+            "total_count": 302822
+          },
+          {
+            "name": "映画",
+            "count": 12,
+            "total_count": 6312
+          },
+          {
+            "name": "作画",
+            "count": 10,
+            "total_count": 2175
+          },
+          {
+            "name": "2013年1月",
+            "count": 10,
+            "total_count": 15527
+          },
+          {
+            "name": "日本动画",
+            "count": 8,
+            "total_count": 34946
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女学园"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "动画未来 小魔女学园"
+              },
+              {
+                "v": "リトルウィッチアカデミア（アニメミライ）"
+              },
+              {
+                "v": "リトル ウィッチ アカデミア"
+              },
+              {
+                "v": "小魔法学园"
+              },
+              {
+                "v": "Little Witch Academia"
+              }
+            ]
+          },
+          {
+            "key": "上映年度",
+            "value": "2013年3月2日"
+          },
+          {
+            "key": "片长",
+            "value": "26 min"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://littlewitchacademia.jp/"
+          },
+          {
+            "key": "Copyright",
+            "value": "ⒸY.YOSHINARI/TRIGGER"
+          },
+          {
+            "key": "话数",
+            "value": "1"
+          },
+          {
+            "key": "导演",
+            "value": "吉成曜"
+          },
+          {
+            "key": "人物设定",
+            "value": "吉成曜"
+          },
+          {
+            "key": "作画监督",
+            "value": "吉成曜"
+          },
+          {
+            "key": "系列",
+            "value": "若手アニメーター育成プロジェクト アニメミライ2013/青年动画制作者育成计划 动画未来2013"
+          },
+          {
+            "key": "背景美术",
+            "value": "荒井貞幸、安味香織、studio Pablo（鈴木隆之、藤井綾香）、吉岡誠子"
+          },
+          {
+            "key": "原案",
+            "value": "吉成曜"
+          },
+          {
+            "key": "美术监督",
+            "value": "金子雄司"
+          },
+          {
+            "key": "色彩设计",
+            "value": "垣田由紀子（T2studio）"
+          },
+          {
+            "key": "摄影监督",
+            "value": "山田豊徳（サンジゲン）"
+          },
+          {
+            "key": "剪辑",
+            "value": "剪辑工作室：Real-T"
+          },
+          {
+            "key": "音响监督",
+            "value": "渡辺淳"
+          },
+          {
+            "key": "音乐",
+            "value": "大島ミチル"
+          },
+          {
+            "key": "动画制片人",
+            "value": "堤尚子"
+          },
+          {
+            "key": "动画制作",
+            "value": "TRIGGER"
+          },
+          {
+            "key": "作画监督助理",
+            "value": "堀剛史、芳垣祐介"
+          },
+          {
+            "key": "原画",
+            "value": "金子雄人、坂本勝、三宮昌太、田頭悠郎、半田修平、堀剛史、芳垣祐介、米山舞、吉成曜"
+          },
+          {
+            "key": "动画检查",
+            "value": "こすぎなほこ"
+          },
+          {
+            "key": "补间动画",
+            "value": "タジオカラー（山井紗也香、髙木麻穂、井関修一、中村颯、吉井勝也、小野承國）、ブレインズベース（三上喜子、濱田翔、逆井淳美）、アニタス神戸（太田麻美　尾辻浩晃、森なゆた、手島舞、合田桃子、南林宏美、西原恵利香、的場陽子、江上華子、山下菜摘、中川貴美子、荒木美帆）、夢弦館（山下宗幸、畑畠美和、田中梨沙、村野春佳）、中村プロダクション（岩淵竜士、城田武将、恩田秀一、渡邊陽康、古賀浩希、小林寿徳、佐藤太一）、グラフィニカ（原聖、大野翔馬、木立智鶴、霜多美幸、亀山千夏、安川リベカ、増井良紀、槙麻里奈）、キャンディーボックス（何維、唐宗祺、呂治霖、黄成希、涂泳策）、タツノコプロ（大越武志、小島知之、竹本野乃子、菊地昇吾）、椎名律子、イングレッサ、フッズエンタテイメント、アニメアール、たくらんけ、P.A.WORKS、スノードロップ、寿門堂、サンライズ"
+          },
+          {
+            "key": "色彩指定",
+            "value": "垣田由紀子"
+          },
+          {
+            "key": "上色检查",
+            "value": "垣田由紀子"
+          },
+          {
+            "key": "上色检查助理",
+            "value": "宮本律希"
+          },
+          {
+            "key": "上色",
+            "value": "Wish（伊藤敦子、山瀬仁美、野間口麻美、砂原直子、田尻佳奈子、久納友香里、村上由恵、古河寿子、井上泉、笹愛美、久島早映子、渡邉裕美、岡宮志帆、熊田真子、三留裕美、角野江美、泉貴明、平出真弓、手嶋明美、渡辺美智子、滝川ひかる、井上昭子）、T2 Studio（南城久美、清水亜紀子、柴田好美、渡辺奈津美、猪原奈都子、飯塚唯奈、伊藤唯）、はだしぷろ、デファー"
+          },
+          {
+            "key": "美术监督助理",
+            "value": "植田竜太郎"
+          },
+          {
+            "key": "美术设计",
+            "value": "吉成曜"
+          },
+          {
+            "key": "摄影",
+            "value": "サンジゲン（石塚恵子、矢辺洋章、藤澤衣里）、林の翔子、東西佑子、井上麻梨、萬直樹、奥村大輔"
+          },
+          {
+            "key": "2D 设计",
+            "value": "2D-Works：和田夏樹"
+          },
+          {
+            "key": "录音",
+            "value": "小原吉男"
+          },
+          {
+            "key": "录音助理",
+            "value": "小島信人"
+          },
+          {
+            "key": "音响制作担当",
+            "value": "浦狩裕樹；音响制作管理：中村明子"
+          },
+          {
+            "key": "录音工作室",
+            "value": "HALF H・P STUDIO"
+          },
+          {
+            "key": "音响",
+            "value": "音响制作：HALF H・P STUDIO"
+          },
+          {
+            "key": "艺人管理",
+            "value": "山川美香"
+          },
+          {
+            "key": "录制管理",
+            "value": "稲垣亮祐"
+          },
+          {
+            "key": "在线剪辑",
+            "value": "鈴木正実；在线剪辑工作室：キュー・テック"
+          },
+          {
+            "key": "协力",
+            "value": "故事协力：今石洋之、若林広海；翻译协力：舘本樹"
+          },
+          {
+            "key": "技术支持",
+            "value": "土田栄司"
+          },
+          {
+            "key": "官网支持",
+            "value": "弥永菜緒"
+          },
+          {
+            "key": "特别鸣谢",
+            "value": "石川直樹（Wish）、加賀谷理奈（ブレインズベース）、高森宏治（アニタス神戸）、堀田大介[daisuke horita]、代々木アニメーション学院声優科有志の皆様、文化服装学院有志の皆様、川勝真知子"
+          },
+          {
+            "key": "制作统括",
+            "value": "舛本和也"
+          },
+          {
+            "key": "制作进行协力",
+            "value": "羅哲、宮島善博"
+          },
+          {
+            "key": "制作事务",
+            "value": "奥山絵理"
+          },
+          {
+            "key": "发行",
+            "value": "アニメミライ事務局"
+          }
+        ],
+        "rating": {
+          "rank": 764,
+          "total": 5155,
+          "count": {
+            "1": 0,
+            "2": 1,
+            "3": 4,
+            "4": 10,
+            "5": 65,
+            "6": 394,
+            "7": 1831,
+            "8": 2308,
+            "9": 403,
+            "10": 139
+          },
+          "score": 7.6
+        },
+        "collection": {
+          "on_hold": 279,
+          "dropped": 57,
+          "wish": 2036,
+          "collect": 8737,
+          "doing": 287
+        },
+        "id": 54675,
+        "eps": 1,
+        "total_episodes": 1,
+        "meta_tags": [
+          "百合",
+          "剧场版",
+          "日本",
+          "奇幻",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2015-10-09",
+        "platform": "剧场版",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/5c/124646_Cgec8.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/5c/124646_Cgec8.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/aa/5c/124646_Cgec8.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/5c/124646_Cgec8.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/5c/124646_Cgec8.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/aa/5c/124646_Cgec8.jpg",
+        "summary": "「ルーナノーヴァ」は魔女をめざす少女たちが集まる伝統ある魔法学校。主人公のアッコはいまだホウキにも乗れず友達のロッテ、スーシィと共にあいかわらずな騒動の毎日を送っていた。\r\nある日、授業の失敗の罰として先生から言い渡されたのは、落第ギリギリの問題児たちで悲惨な魔女裁判の歴史を再現するパレードに参加すること。地味で辛気臭いパレードなんかまっぴら！魔法の素晴しさを街の人たちにアピールする！\r\n一人息巻くアッコと呆れるロッテとスーシィ、さらに問題児たちも加わって街全体を巻き込んだアッコの奇想天外なパレードが今、走り出す——",
+        "name": "リトルウィッチアカデミア 魔法仕掛けのパレード",
+        "name_cn": "小魔女学园 魔法游行",
+        "tags": [
+          {
+            "name": "剧场版",
+            "count": 1305,
+            "total_count": 726787
+          },
+          {
+            "name": "TRIGGER",
+            "count": 1146,
+            "total_count": 41140
+          },
+          {
+            "name": "吉成曜",
+            "count": 742,
+            "total_count": 5154
+          },
+          {
+            "name": "原创",
+            "count": 716,
+            "total_count": 622499
+          },
+          {
+            "name": "2015",
+            "count": 619,
+            "total_count": 69380
+          },
+          {
+            "name": "奇幻",
+            "count": 448,
+            "total_count": 473994
+          },
+          {
+            "name": "小魔女学园",
+            "count": 376,
+            "total_count": 1515
+          },
+          {
+            "name": "魔法",
+            "count": 329,
+            "total_count": 20104
+          },
+          {
+            "name": "动画未来",
+            "count": 187,
+            "total_count": 1679
+          },
+          {
+            "name": "百合",
+            "count": 185,
+            "total_count": 404409
+          },
+          {
+            "name": "2015年7月",
+            "count": 110,
+            "total_count": 25734
+          },
+          {
+            "name": "大島ミチル",
+            "count": 85,
+            "total_count": 511
+          },
+          {
+            "name": "校园",
+            "count": 75,
+            "total_count": 455666
+          },
+          {
+            "name": "岛田满",
+            "count": 53,
+            "total_count": 115
+          },
+          {
+            "name": "2015年",
+            "count": 43,
+            "total_count": 4419
+          },
+          {
+            "name": "日本",
+            "count": 36,
+            "total_count": 299486
+          },
+          {
+            "name": "搞笑",
+            "count": 32,
+            "total_count": 641217
+          },
+          {
+            "name": "映画",
+            "count": 32,
+            "total_count": 6312
+          },
+          {
+            "name": "魔法少女",
+            "count": 19,
+            "total_count": 36920
+          },
+          {
+            "name": "战斗",
+            "count": 16,
+            "total_count": 474022
+          },
+          {
+            "name": "2015年10月",
+            "count": 14,
+            "total_count": 20753
+          },
+          {
+            "name": "大岛满",
+            "count": 14,
+            "total_count": 199
+          },
+          {
+            "name": "魔女",
+            "count": 14,
+            "total_count": 1871
+          },
+          {
+            "name": "OVA",
+            "count": 13,
+            "total_count": 366157
+          },
+          {
+            "name": "作画",
+            "count": 13,
+            "total_count": 2175
+          },
+          {
+            "name": "电影",
+            "count": 8,
+            "total_count": 13631
+          },
+          {
+            "name": "島田満",
+            "count": 7,
+            "total_count": 95
+          },
+          {
+            "name": "热血",
+            "count": 7,
+            "total_count": 214034
+          },
+          {
+            "name": "今石洋之",
+            "count": 7,
+            "total_count": 24480
+          },
+          {
+            "name": "日本动画",
+            "count": 7,
+            "total_count": 34946
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女学园 魔法游行"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "Little Witch Academia The Enchanted Parade"
+              }
+            ]
+          },
+          {
+            "key": "上映年度",
+            "value": "2015年10月9日"
+          },
+          {
+            "key": "片长",
+            "value": "54m"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://littlewitchacademia.jp/"
+          },
+          {
+            "key": "其他",
+            "value": "2015年7月3日（Anime Expo首映）"
+          },
+          {
+            "key": "Copyright",
+            "value": "(C)2015 TRIGGER/吉成曜/GOOD SMILE COMPANY"
+          },
+          {
+            "key": "话数",
+            "value": "1"
+          },
+          {
+            "key": "导演",
+            "value": "吉成曜"
+          },
+          {
+            "key": "人物设定",
+            "value": "吉成曜"
+          },
+          {
+            "key": "作画监督",
+            "value": "吉成曜"
+          },
+          {
+            "key": "脚本",
+            "value": "島田満"
+          },
+          {
+            "key": "色彩设计",
+            "value": "垣田由紀子"
+          },
+          {
+            "key": "美术监督",
+            "value": "金子雄司"
+          },
+          {
+            "key": "摄影监督",
+            "value": "土田栄司"
+          },
+          {
+            "key": "剪辑",
+            "value": "剪辑工作室：REAL-T"
+          },
+          {
+            "key": "音响监督",
+            "value": "渡辺淳"
+          },
+          {
+            "key": "音乐",
+            "value": "大島ミチル"
+          },
+          {
+            "key": "现场制片人",
+            "value": "堤尚子"
+          },
+          {
+            "key": "动画制作",
+            "value": "TRIGGER"
+          },
+          {
+            "key": "製作",
+            "value": "GOOD SMILE COMPANY"
+          },
+          {
+            "key": "发行",
+            "value": "東宝映像事業部（TOHO animation）"
+          },
+          {
+            "key": "原案",
+            "value": "吉成曜"
+          },
+          {
+            "key": "分镜",
+            "value": "吉成曜"
+          },
+          {
+            "key": "协力",
+            "value": "秋山拓郎、榎本龍馬、明利尚紀、藤井直人、Will Feng、Enna Hozumi、川中利満、てりてりお、金岡聖樹、藤原ゆか、森川嘉一郎；故事协力：大塚雅彦、今石洋之、若林広海；翻译协力：渡辺博也、Will Feng"
+          },
+          {
+            "key": "演出助理",
+            "value": "宮島善博"
+          },
+          {
+            "key": "作画监督助理",
+            "value": "米山舞、すしお、錦織敦史"
+          },
+          {
+            "key": "原画",
+            "value": "坂本勝、半田修平、三宮昌太、金子雄人、田頭悠郎、竹田直樹、芳垣祐介、五十嵐海、石毛理恵、中村恵美、伍柏諭、石田一将、中川英樹、山口加奈、田村瑛美、八島祥子、長谷川哲也、高嶋宏之、錦織敦史、すしお、今石洋之、平松禎史、堀剛史、吉成曜、雨宮哲、斉藤健吾、杉本ミッシェル、小倉陳利、佐藤利幸、池田由美、平松直紀、奥居久明、髙木麻穂、谷田部透湖、神山裕子、山村有理、橋本志穂、長田信博、千葉椿、静佳見、濱田翔、甲斐有紀奈、中村真由美、永田雄樹、常松裕美、 郑翰丰、涂泳策"
+          },
+          {
+            "key": "动画检查",
+            "value": "こすぎなほこ、遠藤良恵"
+          },
+          {
+            "key": "补间动画",
+            "value": "中村真由美、甲斐有紀奈、池澤岳史、黄薇霓、今村万理子、濱田悠示、耿旭、小川純央、照幸、井川典恵"
+          },
+          {
+            "key": "色彩指定",
+            "value": "柿田由紀子"
+          },
+          {
+            "key": "上色检查",
+            "value": "柿田由紀子"
+          },
+          {
+            "key": "上色",
+            "value": "Wish（伊藤敦子、清水美紀、梅村利恵子、千葉陽子、藤田舞、江草大樹、滝川ひかる、望月順子、伊藤淳帆、竹内淳子、中村直美、北沢理絵、石原裕介、吉木絵理、山本恵里奈、原田紗帆、中川友紀子、福島晃貴、土岐智子、成田照美、斎藤翠、鎌田香織、斉藤たかし、奥井恵美子、寺島伸弥、田中照佳）"
+          },
+          {
+            "key": "美术监督助理",
+            "value": "植田竜太郎"
+          },
+          {
+            "key": "背景美术",
+            "value": "トリガー美術、青写真、貴志泰臣、後藤太郎、金子姿帆美、杉原有紀、仲村謙、袈裟丸絵美、鈴木隆之、植田竜太郎、金子雄司"
+          },
+          {
+            "key": "摄影",
+            "value": "桜田知之、野中栄実、荘子賢"
+          },
+          {
+            "key": "摄影协力",
+            "value": "川井政明、タツノコプロ、土田栄司"
+          },
+          {
+            "key": "制作进行",
+            "value": "竹内雅人；摄影管理：下平佑一；動画管理：祖父江有花"
+          },
+          {
+            "key": "2D 设计",
+            "value": "2D Works：和田夏樹；游戏画面制作：サンジゲン"
+          },
+          {
+            "key": "视觉概念",
+            "value": "艺术指导：藤澤衣里"
+          },
+          {
+            "key": "3DCG",
+            "value": "林翔子"
+          },
+          {
+            "key": "剪辑助理",
+            "value": "須藤瞳"
+          },
+          {
+            "key": "在线剪辑",
+            "value": "武村英紀、丁台熙；在线剪辑工作室：IMAGICA"
+          },
+          {
+            "key": "录音",
+            "value": "录音调整：小原吉男；录音工程师：Alexandre Widmer、Jon Goc、Alexis Leverve、大串浩彰"
+          },
+          {
+            "key": "录音助理",
+            "value": "宮本賢人"
+          },
+          {
+            "key": "音响制作担当",
+            "value": "浦狩裕樹；音响制作Desk：中村明子"
+          },
+          {
+            "key": "录音工作室",
+            "value": "HALF H・P STUDIO"
+          },
+          {
+            "key": "音响",
+            "value": "音响制作：HALF H・P STUDIO"
+          },
+          {
+            "key": "声音后期制作",
+            "value": "TNK production"
+          },
+          {
+            "key": "声音设计",
+            "value": "Nadége Feyrit"
+          },
+          {
+            "key": "拟音收录工作室",
+            "value": "Poly Son Post Production"
+          },
+          {
+            "key": "拟音",
+            "value": "Christophe Bourreau"
+          },
+          {
+            "key": "授权",
+            "value": "和洋、WAYO RECORDS、Jonathan Khersis"
+          },
+          {
+            "key": "插入歌作词",
+            "value": "島田満"
+          },
+          {
+            "key": "插入歌作曲",
+            "value": "大島ミチル"
+          },
+          {
+            "key": "插入歌演出",
+            "value": "折笠富美子"
+          },
+          {
+            "key": "艺人管理",
+            "value": "山川美香"
+          },
+          {
+            "key": "音乐制作人",
+            "value": "稲垣亮祐、三上政高"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "MANYO"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "MANYO"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "MANYO"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "大原ゆい子"
+          },
+          {
+            "key": "音乐监督",
+            "value": "水野大輔"
+          },
+          {
+            "key": "主题歌制作",
+            "value": "TOHO animation RECORDS、KICK STARTER BACKERS"
+          },
+          {
+            "key": "宣传制片人",
+            "value": "弭間友子"
+          },
+          {
+            "key": "宣传",
+            "value": "島野一樹、舘本樹、立川政吉、柴崎守希子；宣传文案：渡辺水央；宣传设计：細川寿樹、佐々木志帆"
+          },
+          {
+            "key": "宣传协力",
+            "value": "木立己百花、尾畑聡明"
+          },
+          {
+            "key": "官网制作",
+            "value": "小林史尋、曽我准也"
+          },
+          {
+            "key": "预告制作",
+            "value": "江本健、髙根英一郎、岩﨑友佳"
+          },
+          {
+            "key": "配给营业",
+            "value": "山下信政、高林将也、宮村礼子、木村亮二、高橋紘二郎、勝井晴、高江洲美夏"
+          },
+          {
+            "key": "版权管理",
+            "value": "真鍋義朗、徳田慶子"
+          },
+          {
+            "key": "标题设计",
+            "value": "鶴貝好弘、大田垣良子"
+          },
+          {
+            "key": "幕后制作",
+            "value": "川勝真知子、岩田久範"
+          },
+          {
+            "key": "动画制片人",
+            "value": "堤尚子"
+          },
+          {
+            "key": "制作管理",
+            "value": "下平佑一"
+          },
+          {
+            "key": "制作统括",
+            "value": "舛本和也"
+          },
+          {
+            "key": "制作事务",
+            "value": "奥山絵理、加藤野絵"
+          },
+          {
+            "key": "製作协力",
+            "value": "ウルトラスーパーピクチャーズ"
+          },
+          {
+            "key": "制作协力",
+            "value": "志太駿介、原大周、佐塚弾純、古川晟、石川直樹、新崇雄、戎雅子、畑中太一、別府洋一"
+          },
+          {
+            "key": "特别鸣谢",
+            "value": "弥永菜緒、堀田大介、山田豊徳、Nastassia Lacu Read、大坪英之、前島翠、HATRA、木村アンディ"
+          },
+          {
+            "key": "副制片人",
+            "value": "古澤佳寛、武井克弘"
+          },
+          {
+            "key": "制片人",
+            "value": "大塚雅彦、桶田大介、宇佐義大"
+          },
+          {
+            "key": "总制片人",
+            "value": "安藝貴範"
+          }
+        ],
+        "rating": {
+          "rank": 847,
+          "total": 3982,
+          "count": {
+            "1": 0,
+            "2": 2,
+            "3": 2,
+            "4": 12,
+            "5": 59,
+            "6": 303,
+            "7": 1454,
+            "8": 1782,
+            "9": 281,
+            "10": 87
+          },
+          "score": 7.5
+        },
+        "collection": {
+          "on_hold": 132,
+          "dropped": 29,
+          "wish": 1311,
+          "collect": 6664,
+          "doing": 154
+        },
+        "id": 124646,
+        "eps": 1,
+        "total_episodes": 1,
+        "meta_tags": [
+          "百合",
+          "剧场版",
+          "日本",
+          "奇幻",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2017-01-08",
+        "platform": "TV",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/09/185792_YmcaM.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/09/185792_YmcaM.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/c5/09/185792_YmcaM.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/09/185792_YmcaM.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/09/185792_YmcaM.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/c5/09/185792_YmcaM.jpg",
+        "summary": "自从幼年目睹夏依妮·莎莉温的魔法表演后，梦想成为魔女的亚可，进入了与莎莉温相同的传统魔女育成名门校“露娜诺娃魔法学校”。\r\n新的城镇，新的学校生活，以及新遇到的朋友。魔女学校中的扫帚飞行课程以及充满魔法气息的不可思议的授课等等，在这些只有魔女学校中才有的课程当中，亚可与洛蒂、苏西等人引发了大骚动！\r\n将露娜诺娃卷入其中，亚可成为魔女的第一步就此开始——",
+        "name": "リトルウィッチアカデミア",
+        "name_cn": "小魔女学园",
+        "tags": [
+          {
+            "name": "TRIGGER",
+            "count": 2897,
+            "total_count": 41138
+          },
+          {
+            "name": "原创",
+            "count": 2010,
+            "total_count": 622482
+          },
+          {
+            "name": "吉成曜",
+            "count": 1734,
+            "total_count": 5154
+          },
+          {
+            "name": "奇幻",
+            "count": 1391,
+            "total_count": 473953
+          },
+          {
+            "name": "2017年1月",
+            "count": 1386,
+            "total_count": 23441
+          },
+          {
+            "name": "TV",
+            "count": 1275,
+            "total_count": 1408862
+          },
+          {
+            "name": "魔法",
+            "count": 1210,
+            "total_count": 20100
+          },
+          {
+            "name": "百合",
+            "count": 1188,
+            "total_count": 404383
+          },
+          {
+            "name": "小魔女学园",
+            "count": 1093,
+            "total_count": 1515
+          },
+          {
+            "name": "魔女",
+            "count": 796,
+            "total_count": 1871
+          },
+          {
+            "name": "2017",
+            "count": 663,
+            "total_count": 71603
+          },
+          {
+            "name": "原创动画",
+            "count": 327,
+            "total_count": 6825
+          },
+          {
+            "name": "搞笑",
+            "count": 274,
+            "total_count": 641167
+          },
+          {
+            "name": "半年番",
+            "count": 254,
+            "total_count": 4342
+          },
+          {
+            "name": "校园",
+            "count": 172,
+            "total_count": 455627
+          },
+          {
+            "name": "日本",
+            "count": 119,
+            "total_count": 299440
+          },
+          {
+            "name": "大島ミチル",
+            "count": 82,
+            "total_count": 511
+          },
+          {
+            "name": "2017年",
+            "count": 62,
+            "total_count": 4380
+          },
+          {
+            "name": "日常",
+            "count": 58,
+            "total_count": 402209
+          },
+          {
+            "name": "战斗",
+            "count": 43,
+            "total_count": 473985
+          },
+          {
+            "name": "治愈",
+            "count": 36,
+            "total_count": 302796
+          },
+          {
+            "name": "轻百合",
+            "count": 35,
+            "total_count": 38456
+          },
+          {
+            "name": "热血",
+            "count": 33,
+            "total_count": 214032
+          },
+          {
+            "name": "励志",
+            "count": 27,
+            "total_count": 28394
+          },
+          {
+            "name": "魔法少女",
+            "count": 24,
+            "total_count": 36916
+          },
+          {
+            "name": "扳机社",
+            "count": 18,
+            "total_count": 3165
+          },
+          {
+            "name": "今石洋之",
+            "count": 15,
+            "total_count": 24480
+          },
+          {
+            "name": "島田満",
+            "count": 13,
+            "total_count": 95
+          },
+          {
+            "name": "大岛满",
+            "count": 11,
+            "total_count": 199
+          },
+          {
+            "name": "日本动画",
+            "count": 11,
+            "total_count": 34944
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女学园"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "小魔女学园（TV版）"
+              },
+              {
+                "v": "リトルウィッチアカデミア (テレビアニメ版)"
+              },
+              {
+                "v": "Little Witch Academia (TV)"
+              },
+              {
+                "v": "Little Witch Academia"
+              }
+            ]
+          },
+          {
+            "key": "话数",
+            "value": "25"
+          },
+          {
+            "key": "放送开始",
+            "value": "2017年1月8日"
+          },
+          {
+            "key": "放送星期",
+            "value": "星期日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://littlewitchacademia.jp/tv1st/"
+          },
+          {
+            "key": "播放电视台",
+            "value": "TOKYO MX"
+          },
+          {
+            "key": "其他电视台",
+            "value": "BS11 / 関西テレビ"
+          },
+          {
+            "key": "播放结束",
+            "value": "2017年6月25日"
+          },
+          {
+            "key": "导演",
+            "value": "吉成曜"
+          },
+          {
+            "key": "Copyright",
+            "value": "© 2017 TRIGGER／吉成曜／「リトルウィッチアカデミア」製作委員会"
+          },
+          {
+            "key": "原作",
+            "value": "TRIGGER／吉成曜"
+          },
+          {
+            "key": "人物原案",
+            "value": "吉成曜"
+          },
+          {
+            "key": "製作",
+            "value": "『リトルウィッチアカデミア』製作委員会（東宝、グッドスマイルフィルム、ウルトラスーパーピクチャーズ）；大田圭二、安藝貴範、松浦裕暁"
+          },
+          {
+            "key": "监制",
+            "value": "武井克弘〔1話〕、古澤佳寛〔2話-〕、大塚雅彦、Daivid Lee"
+          },
+          {
+            "key": "制片人",
+            "value": "古澤佳寛〔1話〕、武井克弘〔2話-〕、宇佐義大、鈴木公尚"
+          },
+          {
+            "key": "人物设定",
+            "value": "半田修平"
+          },
+          {
+            "key": "脚本",
+            "value": "島田満(1-2,6,10-13,15,19-22)、うえのきみこ(3,7-8,14,16,22)、樋口七海(4,9,18-20)、佐藤裕(5,17)、大塚雅彦(5,17,23-25)"
+          },
+          {
+            "key": "分镜",
+            "value": "吉成曜(1-2,25)、摩砂雪(3,17)、桜井弘明(4)、福田道生(5)、上荻雪羽(6,15)、雨宮哲(7)、今石洋之(8,25)、大地丙太郎(9)、小林寛(10,18,22)、大嶋博之(11)、益山亮司(12-13,19)、小倉陳利(14,16,21,24)、小松田大全(20)、川畑喬(23)"
+          },
+          {
+            "key": "分镜协力",
+            "value": "中園真登(2)、田村瑛美(6)、雨宮哲(25)"
+          },
+          {
+            "key": "演出",
+            "value": "宮島善博(1,6,12,20,25)、中園真登(2,8,14,24)、篠原啓輔(3)、下平佑一(4,11,18)、有冨興二(5)、佐竹秀幸(7,13,22)、関大(9)、橘さおり(10)、鈴木裕輔(15)、鈴木芳成(16)、金子祥之(17)、藤井辰己(19)、柴田匠(21)、粟井重紀(23)"
+          },
+          {
+            "key": "演出助理",
+            "value": "佐々木達也(9)、宮島善博(9)、中園真登(9,18)、下平佑一(25)"
+          },
+          {
+            "key": "OP・ED 分镜",
+            "value": "柴田由香(OP1)、吉成曜(OP2,ED1&2)"
+          },
+          {
+            "key": "OP・ED 演出",
+            "value": "宮島善博(OP1&2)、中園真登(OP2)"
+          }
+        ],
+        "rating": {
+          "rank": 606,
+          "total": 10245,
+          "count": {
+            "1": 13,
+            "2": 8,
+            "3": 15,
+            "4": 63,
+            "5": 196,
+            "6": 819,
+            "7": 2889,
+            "8": 4458,
+            "9": 1358,
+            "10": 426
+          },
+          "score": 7.7
+        },
+        "collection": {
+          "on_hold": 1061,
+          "dropped": 395,
+          "wish": 4029,
+          "collect": 15154,
+          "doing": 1458
+        },
+        "id": 185792,
+        "eps": 25,
+        "total_episodes": 25,
+        "meta_tags": [
+          "百合",
+          "TV",
+          "日本",
+          "奇幻",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "1999-02-07",
+        "platform": "TV",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/3e/14652_5I0PG.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/3e/14652_5I0PG.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/0f/3e/14652_5I0PG.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/3e/14652_5I0PG.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/3e/14652_5I0PG.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/0f/3e/14652_5I0PG.jpg",
+        "summary": "自称为“世界上最不幸的美少女”的春风DoReMi，一直相信这世界上有魔女，并希望自己成为魔女后可以向喜欢的人（当时是五十岚学长）表白。\r\n\r\n有一天放学时，春风DoReMi经过一间名叫“新旗山莉卡魔法堂”的店铺。进入一探究竟时，碰巧拆穿了当时魔法堂的老板－“魔女莉卡”具有魔女身份，而导致她变成魔女青蛙。由于只有识破的人变成魔女才可让魔女莉卡恢复原貌，为了帮助魔女莉卡回复原状，DoReMi成为了魔女见习生，并要在见习魔女9个级别（第9级至第1级）的考试中合格，从而取得魔女的象征──自己的水晶球，才能成为正式魔女。期间，初贵、爱子与DoReMi的妹妹泡泡，因为先后知道DoReMi是魔女见习生，为了不让DoReMi也变成魔女青蛙，因此也陆续成为魔女见习生。为了赚取使用魔力所需的魔法珠，所以要时常在魔法堂帮忙。期间也慢慢的参加升级试。在升级试的途中，Doremi等人获得了精灵陪伴。 ",
+        "name": "おジャ魔女どれみ",
+        "name_cn": "小魔女DoReMi",
+        "tags": [
+          {
+            "name": "TV",
+            "count": 212,
+            "total_count": 1408992
+          },
+          {
+            "name": "1999",
+            "count": 170,
+            "total_count": 13513
+          },
+          {
+            "name": "东映",
+            "count": 154,
+            "total_count": 20981
+          },
+          {
+            "name": "魔法少女",
+            "count": 140,
+            "total_count": 36920
+          },
+          {
+            "name": "原创",
+            "count": 123,
+            "total_count": 622534
+          },
+          {
+            "name": "童年",
+            "count": 120,
+            "total_count": 93343
+          },
+          {
+            "name": "佐藤顺一",
+            "count": 99,
+            "total_count": 3341
+          },
+          {
+            "name": "五十岚卓哉",
+            "count": 98,
+            "total_count": 1530
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 74,
+            "total_count": 9964
+          },
+          {
+            "name": "doremi",
+            "count": 52,
+            "total_count": 147
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 47,
+            "total_count": 733
+          },
+          {
+            "name": "TVB",
+            "count": 29,
+            "total_count": 2572
+          },
+          {
+            "name": "子供向",
+            "count": 27,
+            "total_count": 13066
+          },
+          {
+            "name": "补旧番",
+            "count": 14,
+            "total_count": 5339
+          },
+          {
+            "name": "日本",
+            "count": 14,
+            "total_count": 299502
+          },
+          {
+            "name": "五十嵐卓哉",
+            "count": 13,
+            "total_count": 379
+          },
+          {
+            "name": "佐藤順一",
+            "count": 13,
+            "total_count": 671
+          },
+          {
+            "name": "校园",
+            "count": 13,
+            "total_count": 455673
+          },
+          {
+            "name": "山内重保",
+            "count": 11,
+            "total_count": 820
+          },
+          {
+            "name": "山田隆司",
+            "count": 11,
+            "total_count": 212
+          },
+          {
+            "name": "搞笑",
+            "count": 10,
+            "total_count": 641250
+          },
+          {
+            "name": "年番",
+            "count": 10,
+            "total_count": 1570
+          },
+          {
+            "name": "90年代",
+            "count": 10,
+            "total_count": 4059
+          },
+          {
+            "name": "治愈",
+            "count": 9,
+            "total_count": 302832
+          },
+          {
+            "name": "东映动画",
+            "count": 9,
+            "total_count": 7345
+          },
+          {
+            "name": "TVA",
+            "count": 8,
+            "total_count": 15472
+          },
+          {
+            "name": "1999年",
+            "count": 8,
+            "total_count": 650
+          },
+          {
+            "name": "1999年2月",
+            "count": 7,
+            "total_count": 46
+          },
+          {
+            "name": "吉田玲子",
+            "count": 7,
+            "total_count": 7357
+          },
+          {
+            "name": "幼女向",
+            "count": 6,
+            "total_count": 1953
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女DoReMi"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "Ojamajo Doremi"
+              },
+              {
+                "v": "Magical DoReMi"
+              }
+            ]
+          },
+          {
+            "key": "话数",
+            "value": "51"
+          },
+          {
+            "key": "放送开始",
+            "value": "1999年2月7日"
+          },
+          {
+            "key": "放送星期",
+            "value": "星期日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://www.toei-anim.co.jp/tv/doremi/"
+          },
+          {
+            "key": "播放电视台",
+            "value": "朝日电视台系统、Animax"
+          },
+          {
+            "key": "播放结束",
+            "value": "2000年1月30日"
+          },
+          {
+            "key": "音乐",
+            "value": "奥慶一"
+          },
+          {
+            "key": "Copyright",
+            "value": "©ABC・東映アニメーション"
+          },
+          {
+            "key": "原作",
+            "value": "東堂いづみ"
+          },
+          {
+            "key": "系列监督",
+            "value": "佐藤順一、五十嵐卓哉"
+          },
+          {
+            "key": "系列构成",
+            "value": "山田隆司"
+          },
+          {
+            "key": "脚本",
+            "value": "栗山緑（山田隆司）、影山由美、大和屋暁、吉田玲子、吉村元希、前川淳、喜多川夏音"
+          },
+          {
+            "key": "分镜",
+            "value": "佐藤順一、矢部秋則、五十嵐卓哉、岩井隆央、岡佳広、山吉康夫、伊藤尚往、山内重保"
+          },
+          {
+            "key": "演出",
+            "value": "佐藤順一、広嶋秀樹、矢部秋則、五十嵐卓哉、岩井隆央、岡佳広、山吉康夫、伊藤尚往、山内重保"
+          },
+          {
+            "key": "人物设定",
+            "value": "馬越嘉彦"
+          },
+          {
+            "key": "设定",
+            "value": "コンセプトデザイン：馬越嘉彦"
+          },
+          {
+            "key": "作画监督",
+            "value": "河野宏之、青山充、生田目康裕、なかじまちゅうじ、川村敏江、稲上晃、馬越嘉彦"
+          },
+          {
+            "key": "美术设计",
+            "value": "ゆきゆきえ、行信三"
+          },
+          {
+            "key": "色彩设计",
+            "value": "辻田邦夫"
+          },
+          {
+            "key": "摄影",
+            "value": "三晃プロダクション"
+          },
+          {
+            "key": "音效",
+            "value": "石野貴久（サウンドリング）"
+          },
+          {
+            "key": "音乐制作",
+            "value": "バンダイ・ミュージック（Bandai Music Entertainment）"
+          },
+          {
+            "key": "演技事務",
+            "value": "小浜匠"
+          },
+          {
+            "key": "制作管理",
+            "value": "風間厚徳"
+          },
+          {
+            "key": "制片人",
+            "value": "株柳真司（ABC）、堀内孝、荒井加奈子（ASATSU-DK）、関弘美、蛭田成一（東映アニメーション）"
+          },
+          {
+            "key": "动画制作",
+            "value": "東映アニメーション"
+          },
+          {
+            "key": "制作",
+            "value": "ABC（朝日放送テレビ）、ASATSU-DK（アサツー ディ・ケイ）、東映アニメーション、制作協力：東映"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴)、しゅうさえこ"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "大森祥子"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "池毅、茅原万起(茅原万起子)"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "坂本昌之、川崎真弘"
+          },
+          {
+            "key": "插入歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴)、五條真由美、松浦有希、桜井ちひろ、松平直子、ザ・しばたごろー"
+          }
+        ],
+        "rating": {
+          "rank": 1201,
+          "total": 542,
+          "count": {
+            "1": 0,
+            "2": 0,
+            "3": 2,
+            "4": 2,
+            "5": 18,
+            "6": 73,
+            "7": 210,
+            "8": 158,
+            "9": 53,
+            "10": 26
+          },
+          "score": 7.4
+        },
+        "collection": {
+          "on_hold": 109,
+          "dropped": 59,
+          "wish": 581,
+          "collect": 817,
+          "doing": 138
+        },
+        "id": 14652,
+        "eps": 51,
+        "total_episodes": 51,
+        "meta_tags": [
+          "TV",
+          "日本",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2000-02-06",
+        "platform": "TV",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/bd/14876_95Rgc.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/bd/14876_95Rgc.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/94/bd/14876_95Rgc.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/bd/14876_95Rgc.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/bd/14876_95Rgc.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/94/bd/14876_95Rgc.jpg",
+        "summary": "即将升上四年级的DoReMi、羽月、小爱及音符已经成为好朋友，但同时也失去魔女身份。一天晚上，她们四人回到了魔法堂想和魔女莉卡道别，但魔女莉卡她们却不辞而别。而在无意间发现女王变出来的魔女莉卡的吹风机，因此想借口把吹风机送回给魔女莉卡以重回魔女世界。在女王刻意安排下，她们四人穿过女王的玫瑰花园，并看见一位魔女婴儿在皇后玫瑰花中诞生（皇后玫瑰花为一百年开一朵的珍贵的玫瑰花，由其中出生魔力特强的魔女婴儿将是未来魔女界女王的候选人，按规定看见魔女婴儿诞生者会成为其妈妈，并有扶养之义务）。在大部分的魔女持反对意见之下，女王吩咐她们要照顾这魔女婴儿一年，并恢复她们魔女见习生的身份。同时为了让这个婴儿有合适的生活环境，魔法堂也被改变成花店。期间DoReMi等人要接受九次魔女婴儿定期健康检查，若是任一次检查不合格，魔女婴儿就要送回魔女世界。这魔女婴儿后来由DoReMi命名为小花，意思是从花朵诞生的婴儿。在众人的照顾下小花渐渐长大懂事，但其强大的魔力也带给她们不少麻烦。",
+        "name": "おジャ魔女どれみ♯",
+        "name_cn": "小魔女DoReMi ♯",
+        "tags": [
+          {
+            "name": "TV",
+            "count": 143,
+            "total_count": 1408723
+          },
+          {
+            "name": "2000",
+            "count": 125,
+            "total_count": 10698
+          },
+          {
+            "name": "东映",
+            "count": 101,
+            "total_count": 20977
+          },
+          {
+            "name": "原创",
+            "count": 96,
+            "total_count": 622417
+          },
+          {
+            "name": "魔法少女",
+            "count": 87,
+            "total_count": 36912
+          },
+          {
+            "name": "童年",
+            "count": 71,
+            "total_count": 93325
+          },
+          {
+            "name": "五十岚卓哉",
+            "count": 65,
+            "total_count": 1530
+          },
+          {
+            "name": "魔法少女DoReMi",
+            "count": 56,
+            "total_count": 124
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 53,
+            "total_count": 9964
+          },
+          {
+            "name": "山内重保",
+            "count": 45,
+            "total_count": 820
+          },
+          {
+            "name": "TVB",
+            "count": 40,
+            "total_count": 2572
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 22,
+            "total_count": 733
+          },
+          {
+            "name": "补旧番",
+            "count": 22,
+            "total_count": 5339
+          },
+          {
+            "name": "日本",
+            "count": 15,
+            "total_count": 299354
+          },
+          {
+            "name": "东映动画",
+            "count": 8,
+            "total_count": 7343
+          },
+          {
+            "name": "年番",
+            "count": 8,
+            "total_count": 1570
+          },
+          {
+            "name": "子供向",
+            "count": 8,
+            "total_count": 13054
+          },
+          {
+            "name": "山田隆司",
+            "count": 8,
+            "total_count": 212
+          },
+          {
+            "name": "五十嵐卓哉",
+            "count": 7,
+            "total_count": 379
+          },
+          {
+            "name": "TVA",
+            "count": 7,
+            "total_count": 15464
+          },
+          {
+            "name": "佐藤顺一",
+            "count": 6,
+            "total_count": 3341
+          },
+          {
+            "name": "校园",
+            "count": 6,
+            "total_count": 455582
+          },
+          {
+            "name": "治愈",
+            "count": 6,
+            "total_count": 302766
+          },
+          {
+            "name": "doremi",
+            "count": 6,
+            "total_count": 147
+          },
+          {
+            "name": "經典",
+            "count": 5,
+            "total_count": 1137
+          },
+          {
+            "name": "2000年2月",
+            "count": 5,
+            "total_count": 7
+          },
+          {
+            "name": "搞笑",
+            "count": 5,
+            "total_count": 641104
+          },
+          {
+            "name": "2000s",
+            "count": 5,
+            "total_count": 3076
+          },
+          {
+            "name": "幼女向",
+            "count": 4,
+            "total_count": 1953
+          },
+          {
+            "name": "奇幻",
+            "count": 4,
+            "total_count": 473863
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女DoReMi ♯"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "おジャ魔女どれみ#"
+              },
+              {
+                "v": "Ojamajo DoReMi #"
+              }
+            ]
+          },
+          {
+            "key": "话数",
+            "value": "49"
+          },
+          {
+            "key": "放送开始",
+            "value": "2000年2月6日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://www.toei-anim.co.jp/tv/doremi_s/"
+          },
+          {
+            "key": "播放结束",
+            "value": "2001年1月28日"
+          },
+          {
+            "key": "原作",
+            "value": "東堂いづみ"
+          },
+          {
+            "key": "製作",
+            "value": "ABC（朝日放送テレビ）、ASATSU-DK（アサツー ディ・ケイ）、東映アニメーション、制作協力：東映"
+          },
+          {
+            "key": "人物设定",
+            "value": "馬越嘉彦"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴、宍戸留美)"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "並河祥太、杉山加奈"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "堀隆、杉山加奈"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "堀隆、丸尾めぐみ"
+          },
+          {
+            "key": "插入歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴、宍戸留美)、石毛佐和"
+          },
+          {
+            "key": "系列监督",
+            "value": "五十嵐卓哉、山内重保"
+          }
+        ],
+        "rating": {
+          "rank": 1022,
+          "total": 396,
+          "count": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 3,
+            "5": 14,
+            "6": 56,
+            "7": 120,
+            "8": 130,
+            "9": 49,
+            "10": 23
+          },
+          "score": 7.5
+        },
+        "collection": {
+          "on_hold": 47,
+          "dropped": 41,
+          "wish": 287,
+          "collect": 637,
+          "doing": 55
+        },
+        "id": 14876,
+        "eps": 49,
+        "total_episodes": 49,
+        "meta_tags": [
+          "TV",
+          "日本",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2002-02-03",
+        "platform": "TV",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/e8/14878_1hWbu.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/e8/14878_1hWbu.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/0e/e8/14878_1hWbu.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/e8/14878_1hWbu.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/e8/14878_1hWbu.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/0e/e8/14878_1hWbu.jpg",
+        "summary": "虽然前两任女王道鲁宾已唤起在人类世界的回忆，真身显露出来，但仍然被六条象征悲伤回忆的荆棘所围绕，因此仍继续沈睡。\r\n\r\n又回去魔女幼稚园的小花，为了和升上六年级的DoReMi等人一起上学，使用魔法把自己变成一位12岁女孩。但因为魔法冲击太大导致她的水晶球无法承受而全数粉碎，不过也成功的到了人类世界，并转学到美空小学六年一班，和DoReMi与小桃子同班。因为失去了原来的水晶球，为了让小花再度成为魔女，因此就需要参加魔法升级考试，而DoReMi五人则继续以魔女见习生身份从旁指导小花，如果小花通过一级考试，则她们同时也会正式恢复魔女身分。故女王凿下了自己水晶球的一部分，分成5颗水晶球给DoReMi等人(但需要在小花取回魔女身份后才会变成水晶球)。小花因此住在人类世界，并化名为“新旗山花”，不过却因为调皮的个性，常常滥用魔法，被DoReMi等人多次警告。同时魔法堂受到先前小花改变自己的魔法影响，被改变成手工艺品店。趁势利用此机会，DoReMi等人要制纺织品，重现前前任女王送给她6个孙儿的礼物，从而唤起前前任女王在人间的美好回忆，进而消除六条荆棘，令沈睡中的前前任女王苏醒。 ",
+        "name": "おジャ魔女どれみドッカ～ン!",
+        "name_cn": "小魔女DoReMi 大合奏",
+        "tags": [
+          {
+            "name": "TV",
+            "count": 140,
+            "total_count": 1408722
+          },
+          {
+            "name": "2002",
+            "count": 119,
+            "total_count": 16678
+          },
+          {
+            "name": "魔法少女",
+            "count": 95,
+            "total_count": 36912
+          },
+          {
+            "name": "原创",
+            "count": 86,
+            "total_count": 622417
+          },
+          {
+            "name": "五十岚卓哉",
+            "count": 76,
+            "total_count": 1530
+          },
+          {
+            "name": "东映",
+            "count": 75,
+            "total_count": 20977
+          },
+          {
+            "name": "童年",
+            "count": 62,
+            "total_count": 93325
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 56,
+            "total_count": 9964
+          },
+          {
+            "name": "细田守",
+            "count": 43,
+            "total_count": 8822
+          },
+          {
+            "name": "TVB",
+            "count": 41,
+            "total_count": 2572
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 37,
+            "total_count": 733
+          },
+          {
+            "name": "doremi",
+            "count": 23,
+            "total_count": 147
+          },
+          {
+            "name": "山内重保",
+            "count": 14,
+            "total_count": 820
+          },
+          {
+            "name": "山田隆司",
+            "count": 11,
+            "total_count": 212
+          },
+          {
+            "name": "幼女向",
+            "count": 10,
+            "total_count": 1953
+          },
+          {
+            "name": "东映动画",
+            "count": 9,
+            "total_count": 7343
+          },
+          {
+            "name": "子供向",
+            "count": 9,
+            "total_count": 13050
+          },
+          {
+            "name": "五十嵐卓哉",
+            "count": 8,
+            "total_count": 379
+          },
+          {
+            "name": "校园",
+            "count": 7,
+            "total_count": 455581
+          },
+          {
+            "name": "年番",
+            "count": 7,
+            "total_count": 1570
+          },
+          {
+            "name": "TVA",
+            "count": 7,
+            "total_count": 15464
+          },
+          {
+            "name": "治愈",
+            "count": 7,
+            "total_count": 302766
+          },
+          {
+            "name": "日本",
+            "count": 7,
+            "total_count": 299353
+          },
+          {
+            "name": "2002年",
+            "count": 5,
+            "total_count": 1058
+          },
+          {
+            "name": "2000s",
+            "count": 5,
+            "total_count": 3076
+          },
+          {
+            "name": "2002年2月",
+            "count": 4,
+            "total_count": 31
+          },
+          {
+            "name": "大和屋晓",
+            "count": 3,
+            "total_count": 75
+          },
+          {
+            "name": "魔法少女DoReMi",
+            "count": 3,
+            "total_count": 124
+          },
+          {
+            "name": "奇幻",
+            "count": 3,
+            "total_count": 473863
+          },
+          {
+            "name": "搞笑",
+            "count": 3,
+            "total_count": 641104
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女DoReMi 大合奏"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "Ojamajo Doremi Dokka~n!"
+              }
+            ]
+          },
+          {
+            "key": "话数",
+            "value": "51"
+          },
+          {
+            "key": "放送开始",
+            "value": "2002年2月3日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://www.toei-anim.co.jp/tv/doremi_D/"
+          },
+          {
+            "key": "播放结束",
+            "value": "2003年1月26日"
+          },
+          {
+            "key": "Copyright",
+            "value": "©ABC・東映アニメーション"
+          },
+          {
+            "key": "原作",
+            "value": "東堂いづみ"
+          },
+          {
+            "key": "人物设定",
+            "value": "馬越嘉彦"
+          },
+          {
+            "key": "製作",
+            "value": "ABC（朝日放送テレビ）、ASATSU-DK（アサツー ディ・ケイ）、東映アニメーション、制作協力：東映"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴、宍戸留美、宮原永海、大谷育江)"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "小杉保夫、佐藤恭野"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "もりちよこ、ひかわさくら（佐藤順一）、武頼杏"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "山中紀昌、信田かずお、上田益"
+          },
+          {
+            "key": "插入歌演出",
+            "value": "MAHO堂 (千葉千恵巳、秋谷智子、松岡由貴、宍戸留美、宮原永海、大谷育江)、五條真由美、松浦有希、中司雅美、松本美和、菊池正美、永野愛、溝脇しほみ、堂ノ脇恭子、壱智村小真、高橋直純、岬風右子、横手久美子、竹内順子、葛城七穂、能登麻美子、ふじたれいこ、藤田記子、木内レイコ、サエキトモ、ゆみたかよ、家富ヨウジ、徳光由禾、高橋広樹"
+          },
+          {
+            "key": "系列监督",
+            "value": "五十嵐卓哉"
+          }
+        ],
+        "rating": {
+          "rank": 165,
+          "total": 396,
+          "count": {
+            "1": 1,
+            "2": 1,
+            "3": 1,
+            "4": 2,
+            "5": 8,
+            "6": 33,
+            "7": 71,
+            "8": 87,
+            "9": 96,
+            "10": 96
+          },
+          "score": 8.3
+        },
+        "collection": {
+          "on_hold": 85,
+          "dropped": 64,
+          "wish": 581,
+          "collect": 651,
+          "doing": 49
+        },
+        "id": 14878,
+        "eps": 51,
+        "total_episodes": 51,
+        "meta_tags": [
+          "TV",
+          "日本",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2004-06-26",
+        "platform": "OVA",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/85/14879_4kRqu.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/85/14879_4kRqu.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/e9/85/14879_4kRqu.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/85/14879_4kRqu.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/85/14879_4kRqu.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/e9/85/14879_4kRqu.jpg",
+        "summary": "在故事完结篇后所推出来的OVA。以Mo~tto! 小魔女DoReMi为蓝本，讲述穿插于第三部中的轶事。故事主要围绕在DoReMi、羽月、小爱、音符、小桃子、以及其他同学、家人和朋友的小故事。",
+        "name": "おジャ魔女どれみナ・イ・ショ",
+        "name_cn": "小魔女DoReMi 童年秘密篇",
+        "tags": [
+          {
+            "name": "OVA",
+            "count": 154,
+            "total_count": 365545
+          },
+          {
+            "name": "2004",
+            "count": 96,
+            "total_count": 23759
+          },
+          {
+            "name": "东映",
+            "count": 95,
+            "total_count": 20950
+          },
+          {
+            "name": "五十岚卓哉",
+            "count": 78,
+            "total_count": 1530
+          },
+          {
+            "name": "原创",
+            "count": 69,
+            "total_count": 620992
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 37,
+            "total_count": 9951
+          },
+          {
+            "name": "佐藤顺一",
+            "count": 36,
+            "total_count": 3333
+          },
+          {
+            "name": "魔法少女DoReMi",
+            "count": 33,
+            "total_count": 124
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 27,
+            "total_count": 733
+          },
+          {
+            "name": "山内重保",
+            "count": 25,
+            "total_count": 815
+          },
+          {
+            "name": "doremi",
+            "count": 17,
+            "total_count": 147
+          },
+          {
+            "name": "童年",
+            "count": 16,
+            "total_count": 93129
+          },
+          {
+            "name": "山田隆司",
+            "count": 12,
+            "total_count": 211
+          },
+          {
+            "name": "魔法少女",
+            "count": 12,
+            "total_count": 36851
+          },
+          {
+            "name": "东映动画",
+            "count": 8,
+            "total_count": 7329
+          },
+          {
+            "name": "子供向",
+            "count": 7,
+            "total_count": 12909
+          },
+          {
+            "name": "日本",
+            "count": 7,
+            "total_count": 298185
+          },
+          {
+            "name": "2000s",
+            "count": 7,
+            "total_count": 3087
+          },
+          {
+            "name": "搞笑",
+            "count": 6,
+            "total_count": 639834
+          },
+          {
+            "name": "TV",
+            "count": 6,
+            "total_count": 1406243
+          },
+          {
+            "name": "五十嵐卓哉",
+            "count": 6,
+            "total_count": 379
+          },
+          {
+            "name": "幼女向",
+            "count": 5,
+            "total_count": 1948
+          },
+          {
+            "name": "校园",
+            "count": 4,
+            "total_count": 454463
+          },
+          {
+            "name": "2004年",
+            "count": 3,
+            "total_count": 1275
+          },
+          {
+            "name": "小魔女DoReMi",
+            "count": 3,
+            "total_count": 22
+          },
+          {
+            "name": "日本动画",
+            "count": 3,
+            "total_count": 34918
+          },
+          {
+            "name": "00年代",
+            "count": 3,
+            "total_count": 1242
+          },
+          {
+            "name": "日常",
+            "count": 2,
+            "total_count": 401187
+          },
+          {
+            "name": "治愈",
+            "count": 2,
+            "total_count": 302182
+          },
+          {
+            "name": "東映",
+            "count": 2,
+            "total_count": 764
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女DoReMi 童年秘密篇"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "おジャ魔女どれみナ．イ．ショ"
+              },
+              {
+                "v": "Ojamajo Doremi Na.i.syo"
+              },
+              {
+                "v": "小魔女DoReMi 童年回忆篇"
+              },
+              {
+                "v": "小魔女DoReMi心之密语"
+              },
+              {
+                "v": "小魔女DoReMi 小.秘.密"
+              }
+            ]
+          },
+          {
+            "key": "话数",
+            "value": "13"
+          },
+          {
+            "key": "发售日",
+            "value": "2004年6月26日"
+          },
+          {
+            "key": "开始",
+            "value": "2004年6月26日"
+          },
+          {
+            "key": "结束",
+            "value": "2004年12月11日"
+          },
+          {
+            "key": "原作",
+            "value": "東堂いづみ"
+          },
+          {
+            "key": "人物设定",
+            "value": "馬越嘉彦"
+          },
+          {
+            "key": "监修",
+            "value": "佐藤順一（全話）、中村隆太郎（第12話）"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "MAHO堂〔春風どれみ（千葉千恵巳）、藤原はづき（秋谷智子）、妹尾あいこ（松岡由貴）、瀬川おんぷ（宍戸留美）、飛鳥ももこ（宮原永海）、ハナちゃん（大谷育江）〕"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "吉山隆之、manzo"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "柚木美祐"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "川本盛文"
+          }
+        ],
+        "rating": {
+          "rank": 196,
+          "total": 327,
+          "count": {
+            "1": 4,
+            "2": 1,
+            "3": 0,
+            "4": 2,
+            "5": 9,
+            "6": 24,
+            "7": 50,
+            "8": 79,
+            "9": 80,
+            "10": 78
+          },
+          "score": 8.2
+        },
+        "collection": {
+          "on_hold": 58,
+          "dropped": 56,
+          "wish": 357,
+          "collect": 514,
+          "doing": 23
+        },
+        "id": 14879,
+        "eps": 13,
+        "total_episodes": 13,
+        "meta_tags": [
+          "日本",
+          "OVA",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2000-07-08",
+        "platform": "剧场版",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/25/14880_OvyT0.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/25/14880_OvyT0.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/5d/25/14880_OvyT0.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/25/14880_OvyT0.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/25/14880_OvyT0.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/5d/25/14880_OvyT0.jpg",
+        "summary": "首部小魔女剧场版，讲述泡泡由女皇花园带回人间界的白色花朵“女皇之心”，并引起人间骚动。故事亦描述DoReMi及泡泡两个之间的姐妹关系的故事。",
+        "name": "映画 おジャ魔女どれみ♯",
+        "name_cn": "小魔女DoReMi ♯ 愿望之花",
+        "tags": [
+          {
+            "name": "剧场版",
+            "count": 91,
+            "total_count": 725933
+          },
+          {
+            "name": "2000",
+            "count": 72,
+            "total_count": 10695
+          },
+          {
+            "name": "原创",
+            "count": 43,
+            "total_count": 621597
+          },
+          {
+            "name": "东映",
+            "count": 39,
+            "total_count": 20961
+          },
+          {
+            "name": "五十岚卓哉",
+            "count": 38,
+            "total_count": 1530
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 24,
+            "total_count": 733
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 21,
+            "total_count": 9957
+          },
+          {
+            "name": "TVB",
+            "count": 13,
+            "total_count": 2572
+          },
+          {
+            "name": "童年",
+            "count": 11,
+            "total_count": 93190
+          },
+          {
+            "name": "山田隆司",
+            "count": 10,
+            "total_count": 212
+          },
+          {
+            "name": "魔法少女",
+            "count": 10,
+            "total_count": 36874
+          },
+          {
+            "name": "doremi",
+            "count": 10,
+            "total_count": 147
+          },
+          {
+            "name": "魔法少女DoReMi",
+            "count": 8,
+            "total_count": 124
+          },
+          {
+            "name": "五十嵐卓哉",
+            "count": 7,
+            "total_count": 379
+          },
+          {
+            "name": "东映动画",
+            "count": 7,
+            "total_count": 7334
+          },
+          {
+            "name": "幼女向",
+            "count": 5,
+            "total_count": 1950
+          },
+          {
+            "name": "子供向",
+            "count": 5,
+            "total_count": 12975
+          },
+          {
+            "name": "奇幻",
+            "count": 4,
+            "total_count": 473110
+          },
+          {
+            "name": "日本",
+            "count": 4,
+            "total_count": 298730
+          },
+          {
+            "name": "映画",
+            "count": 3,
+            "total_count": 6311
+          },
+          {
+            "name": "2000年",
+            "count": 2,
+            "total_count": 576
+          },
+          {
+            "name": "日本动画",
+            "count": 2,
+            "total_count": 34926
+          },
+          {
+            "name": "补番",
+            "count": 2,
+            "total_count": 10301
+          },
+          {
+            "name": "校园",
+            "count": 2,
+            "total_count": 455005
+          },
+          {
+            "name": "小魔女DoReMi",
+            "count": 2,
+            "total_count": 22
+          },
+          {
+            "name": "東映",
+            "count": 2,
+            "total_count": 764
+          },
+          {
+            "name": "电影",
+            "count": 2,
+            "total_count": 13592
+          },
+          {
+            "name": "2000s",
+            "count": 2,
+            "total_count": 3073
+          },
+          {
+            "name": "原創",
+            "count": 1,
+            "total_count": 792
+          },
+          {
+            "name": "动画",
+            "count": 1,
+            "total_count": 35753
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女DoReMi ♯ 愿望之花"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "映画 おジャ魔女どれみ♯（しゃーぷっ）"
+              },
+              {
+                "v": "小魔女DoReMi之亲心历险"
+              },
+              {
+                "v": "小魔女DoReMi 魔法玫瑰"
+              }
+            ]
+          },
+          {
+            "key": "上映年度",
+            "value": "2000年7月8日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://www.toei-anim.co.jp/movie/2000_summer/index.html"
+          },
+          {
+            "key": "Copyright",
+            "value": "©ABC・東映アニメーション"
+          },
+          {
+            "key": "话数",
+            "value": "1"
+          },
+          {
+            "key": "原作",
+            "value": "東堂いづみ"
+          },
+          {
+            "key": "导演",
+            "value": "五十嵐卓哉"
+          },
+          {
+            "key": "剧本",
+            "value": "山田隆司"
+          },
+          {
+            "key": "人物设定",
+            "value": "馬越嘉彦"
+          },
+          {
+            "key": "主题歌演出",
+            "value": "MAHO堂〔春風どれみ（千葉千恵巳）、藤原はづき（秋谷智子）、妹尾あいこ（松岡由貴）、瀬川おんぷ（宍戸留美）〕、小森まなみ"
+          },
+          {
+            "key": "主题歌作词",
+            "value": "並河祥太、小森まなみ"
+          },
+          {
+            "key": "主题歌作曲",
+            "value": "堀隆、奥慶一"
+          },
+          {
+            "key": "主题歌编曲",
+            "value": "堀隆、奥慶一"
+          }
+        ],
+        "rating": {
+          "rank": 2110,
+          "total": 166,
+          "count": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 7,
+            "6": 36,
+            "7": 71,
+            "8": 31,
+            "9": 10,
+            "10": 9
+          },
+          "score": 7.1
+        },
+        "collection": {
+          "on_hold": 11,
+          "dropped": 26,
+          "wish": 92,
+          "collect": 273,
+          "doing": 8
+        },
+        "id": 14880,
+        "eps": 1,
+        "total_episodes": 1,
+        "meta_tags": [
+          "剧场版",
+          "原创"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2013-12-28",
+        "platform": "剧场版",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/ce/58646_JBEZa.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/ce/58646_JBEZa.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/cd/ce/58646_JBEZa.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/ce/58646_JBEZa.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ce/58646_JBEZa.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/cd/ce/58646_JBEZa.jpg",
+        "summary": "本作は、「Fate/Zero」「空の境界」のufotable（ユーフォーテーブル）と、「輪るピングドラム」「モーレツ宇宙海賊」のSTARCHILD（スターチャイルド）が送る本格派魔法ファンタジー。 “魔女×姉妹”をテーマに、“絵本級大魔法使い”のヨヨと“最優秀お手本級魔法使い”のネネが繰り広げる、カラフルなファンタジックストーリーが展開します。",
+        "name": "魔女っこ姉妹のヨヨとネネ",
+        "name_cn": "小魔女姐妹悠悠与妮妮",
+        "tags": [
+          {
+            "name": "剧场版",
+            "count": 183,
+            "total_count": 726814
+          },
+          {
+            "name": "ufotable",
+            "count": 129,
+            "total_count": 55322
+          },
+          {
+            "name": "2013",
+            "count": 93,
+            "total_count": 69104
+          },
+          {
+            "name": "魔法少女",
+            "count": 57,
+            "total_count": 36921
+          },
+          {
+            "name": "平尾隆之",
+            "count": 56,
+            "total_count": 1224
+          },
+          {
+            "name": "漫画改",
+            "count": 45,
+            "total_count": 865912
+          },
+          {
+            "name": "治愈",
+            "count": 36,
+            "total_count": 302834
+          },
+          {
+            "name": "魔法少女姐妹优优与宁宁",
+            "count": 28,
+            "total_count": 29
+          },
+          {
+            "name": "2013年12月",
+            "count": 21,
+            "total_count": 1145
+          },
+          {
+            "name": "椎名豪",
+            "count": 17,
+            "total_count": 466
+          },
+          {
+            "name": "漫改",
+            "count": 17,
+            "total_count": 362310
+          },
+          {
+            "name": "映画",
+            "count": 10,
+            "total_count": 6312
+          },
+          {
+            "name": "2013年",
+            "count": 9,
+            "total_count": 3979
+          },
+          {
+            "name": "柴田由香",
+            "count": 6,
+            "total_count": 22
+          },
+          {
+            "name": "日本",
+            "count": 6,
+            "total_count": 299511
+          },
+          {
+            "name": "佐藤和治",
+            "count": 5,
+            "total_count": 31
+          },
+          {
+            "name": "泽城美雪",
+            "count": 4,
+            "total_count": 4467
+          },
+          {
+            "name": "奇幻",
+            "count": 4,
+            "total_count": 474038
+          },
+          {
+            "name": "电影",
+            "count": 4,
+            "total_count": 13631
+          },
+          {
+            "name": "动画电影",
+            "count": 3,
+            "total_count": 44036
+          },
+          {
+            "name": "魔法",
+            "count": 3,
+            "total_count": 20105
+          },
+          {
+            "name": "独立剧场版",
+            "count": 3,
+            "total_count": 966
+          },
+          {
+            "name": "fantasy",
+            "count": 3,
+            "total_count": 463
+          },
+          {
+            "name": "2013年剧场版",
+            "count": 2,
+            "total_count": 43
+          },
+          {
+            "name": "三宅昌和",
+            "count": 2,
+            "total_count": 7
+          },
+          {
+            "name": "実弥島巧",
+            "count": 2,
+            "total_count": 6
+          },
+          {
+            "name": "原创",
+            "count": 2,
+            "total_count": 622547
+          },
+          {
+            "name": "movie",
+            "count": 2,
+            "total_count": 1316
+          },
+          {
+            "name": "沢城みゆき",
+            "count": 2,
+            "total_count": 2431
+          },
+          {
+            "name": "小松未可子",
+            "count": 2,
+            "total_count": 1264
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女姐妹悠悠与妮妮"
+          },
+          {
+            "key": "别名",
+            "value": [
+              {
+                "v": "Majokko Shimai no Yoyo to Nene"
+              },
+              {
+                "v": "Magical Sisters Yoyo & Nene"
+              },
+              {
+                "v": "Yoyo & Nene - Die magischen Schwestern"
+              },
+              {
+                "v": "诅咒屋姐妹"
+              },
+              {
+                "v": "小魔法姐妹优优与宁宁"
+              },
+              {
+                "v": "魔法少女姐妹优优与宁宁"
+              },
+              {
+                "v": "魔女姐妹悠悠和宁宁"
+              },
+              {
+                "v": "魔女姐妹悠悠和妮妮"
+              }
+            ]
+          },
+          {
+            "key": "上映年度",
+            "value": "2013年12月28日"
+          },
+          {
+            "key": "官方网站",
+            "value": "http://king-cr.jp/special/majocco"
+          },
+          {
+            "key": "Copyright",
+            "value": "© 物語環境開発/徳間書店・魔女っこ姉妹のヨヨとネネ製作委員会"
+          },
+          {
+            "key": "话数",
+            "value": "1"
+          },
+          {
+            "key": "原作",
+            "value": "ひらりん（物語環境開発）「のろい屋しまい」徳間書店刊"
+          },
+          {
+            "key": "导演",
+            "value": "平尾隆之"
+          },
+          {
+            "key": "副导演",
+            "value": "高橋タクロヲ"
+          },
+          {
+            "key": "人物设定",
+            "value": "柴田由香"
+          },
+          {
+            "key": "脚本",
+            "value": "佐藤和治・平尾隆之（ufotable）、実弥島巧"
+          },
+          {
+            "key": "剪辑",
+            "value": "今井剛"
+          }
+        ],
+        "rating": {
+          "rank": 2968,
+          "total": 282,
+          "count": {
+            "1": 0,
+            "2": 0,
+            "3": 2,
+            "4": 5,
+            "5": 19,
+            "6": 67,
+            "7": 110,
+            "8": 66,
+            "9": 7,
+            "10": 6
+          },
+          "score": 6.9
+        },
+        "collection": {
+          "on_hold": 35,
+          "dropped": 21,
+          "wish": 345,
+          "collect": 399,
+          "doing": 18
+        },
+        "id": 58646,
+        "eps": 1,
+        "total_episodes": 1,
+        "meta_tags": [
+          "剧场版",
+          "漫画改"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      },
+      {
+        "date": "2019-03-22",
+        "platform": "WEB",
+        "images": {
+          "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/d4/279163_yKVHi.jpg",
+          "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/d4/279163_yKVHi.jpg",
+          "large": "https://lain.bgm.tv/pic/cover/l/d6/d4/279163_yKVHi.jpg",
+          "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/d4/279163_yKVHi.jpg",
+          "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/d4/279163_yKVHi.jpg"
+        },
+        "image": "https://lain.bgm.tv/pic/cover/l/d6/d4/279163_yKVHi.jpg",
+        "summary": "",
+        "name": "おジャ魔女どれみ お笑い劇場",
+        "name_cn": "小魔女doremi 小剧场",
+        "tags": [
+          {
+            "name": "WEB",
+            "count": 21,
+            "total_count": 72051
+          },
+          {
+            "name": "2019",
+            "count": 17,
+            "total_count": 76698
+          },
+          {
+            "name": "泡面番",
+            "count": 11,
+            "total_count": 154379
+          },
+          {
+            "name": "原创",
+            "count": 9,
+            "total_count": 621185
+          },
+          {
+            "name": "东映",
+            "count": 9,
+            "total_count": 20954
+          },
+          {
+            "name": "東映アニメーション",
+            "count": 5,
+            "total_count": 9954
+          },
+          {
+            "name": "千葉千恵巳",
+            "count": 3,
+            "total_count": 28
+          },
+          {
+            "name": "宍戸留美",
+            "count": 3,
+            "total_count": 19
+          },
+          {
+            "name": "山田隆司",
+            "count": 2,
+            "total_count": 211
+          },
+          {
+            "name": "东映动画",
+            "count": 2,
+            "total_count": 7331
+          },
+          {
+            "name": "魔法少女",
+            "count": 1,
+            "total_count": 36861
+          },
+          {
+            "name": "泡面",
+            "count": 1,
+            "total_count": 10558
+          },
+          {
+            "name": "2019年3月",
+            "count": 1,
+            "total_count": 555
+          },
+          {
+            "name": "马越嘉彦",
+            "count": 1,
+            "total_count": 733
+          },
+          {
+            "name": "谷东",
+            "count": 1,
+            "total_count": 79
+          },
+          {
+            "name": "日本动画",
+            "count": 1,
+            "total_count": 34921
+          },
+          {
+            "name": "短片集",
+            "count": 1,
+            "total_count": 2587
+          },
+          {
+            "name": "2010s",
+            "count": 1,
+            "total_count": 5578
+          },
+          {
+            "name": "番外",
+            "count": 1,
+            "total_count": 4310
+          },
+          {
+            "name": "东堂泉",
+            "count": 1,
+            "total_count": 15
+          },
+          {
+            "name": "子供向",
+            "count": 1,
+            "total_count": 12962
+          },
+          {
+            "name": "佐藤順一",
+            "count": 1,
+            "total_count": 671
+          },
+          {
+            "name": "2020",
+            "count": 1,
+            "total_count": 64038
+          },
+          {
+            "name": "原創",
+            "count": 1,
+            "total_count": 792
+          },
+          {
+            "name": "小剧场",
+            "count": 1,
+            "total_count": 1852
+          },
+          {
+            "name": "2019年",
+            "count": 1,
+            "total_count": 3641
+          }
+        ],
+        "infobox": [
+          {
+            "key": "中文名",
+            "value": "小魔女doremi 小剧场"
+          },
+          {
+            "key": "话数",
+            "value": "26"
+          },
+          {
+            "key": "放送开始",
+            "value": "2019年3月22日"
+          }
+        ],
+        "rating": {
+          "rank": 0,
+          "total": 35,
+          "count": {
+            "1": 1,
+            "2": 0,
+            "3": 1,
+            "4": 3,
+            "5": 7,
+            "6": 15,
+            "7": 7,
+            "8": 1,
+            "9": 0,
+            "10": 0
+          },
+          "score": 5.7
+        },
+        "collection": {
+          "on_hold": 4,
+          "dropped": 8,
+          "wish": 25,
+          "collect": 64,
+          "doing": 3
+        },
+        "id": 279163,
+        "eps": 26,
+        "total_episodes": 26,
+        "meta_tags": [
+          "WEB"
+        ],
+        "volumes": 0,
+        "series": false,
+        "locked": false,
+        "nsfw": false,
+        "type": 2
+      }
+    ],
+    "total": 998,
+    "limit": 10,
+    "offset": 0
+  }
+}

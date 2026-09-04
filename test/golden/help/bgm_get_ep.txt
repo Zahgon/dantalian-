@@ -1,0 +1,11 @@
+dantalian-bgm-get-ep 
+try get episode info by subject id
+
+USAGE:
+    dantalian bgm get-ep <ID>
+
+ARGS:
+    <ID>    subject id
+
+OPTIONS:
+    -h, --help    Print help information

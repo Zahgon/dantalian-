@@ -1,0 +1,140 @@
+#compdef dantalian
+
+autoload -U is-at-least
+
+_dantalian() {
+    typeset -A opt_args
+    typeset -a _arguments_options
+    local ret=1
+
+    if is-at-least 5.2; then
+        _arguments_options=(-s -S -C)
+    else
+        _arguments_options=(-s -C)
+    fi
+
+    local context curcontext="$curcontext" state line
+    _arguments "${_arguments_options[@]}" \
+'*-s+[anime source folder. can be used multiple times to decide multi source]:SOURCE:_files -/' \
+'*--source=[anime source folder. can be used multiple times to decide multi source]:SOURCE:_files -/' \
+'*-m+[movies source folder. can be used multiple times to decide multi source]:MOVIE_SOURCE:_files -/' \
+'*--movie-source=[movies source folder. can be used multiple times to decide multi source]:MOVIE_SOURCE:_files -/' \
+'*--force=[paths which you want to force re-generate]:FORCE: ' \
+'--access-token=[use your personal token to access more subject. get one from https://next.bgm.tv/demo/access-token/create]:ACCESS_TOKEN: ' \
+'-h[Print help information]' \
+'--help[Print help information]' \
+'-V[Print version information]' \
+'--version[Print version information]' \
+'-v[show more information]' \
+'--verbose[show more information]' \
+'--force-all[force re-generate all nfo files for all anime]' \
+":: :_dantalian_commands" \
+"*::: :->dantalian" \
+&& ret=0
+    case $state in
+    (dantalian)
+        words=($line[1] "${words[@]}")
+        (( CURRENT += 1 ))
+        curcontext="${curcontext%:*:*}:dantalian-command-$line[1]:"
+        case $line[1] in
+            (bgm)
+_arguments "${_arguments_options[@]}" \
+'-h[Print help information]' \
+'--help[Print help information]' \
+":: :_dantalian__bgm_commands" \
+"*::: :->bgm" \
+&& ret=0
+
+    case $state in
+    (bgm)
+        words=($line[1] "${words[@]}")
+        (( CURRENT += 1 ))
+        curcontext="${curcontext%:*:*}:dantalian-bgm-command-$line[1]:"
+        case $line[1] in
+            (search)
+_arguments "${_arguments_options[@]}" \
+'-h[Print help information]' \
+'--help[Print help information]' \
+'*::keyword -- search keywords:' \
+&& ret=0
+;;
+(get)
+_arguments "${_arguments_options[@]}" \
+'--no-persons[doesn'\''t get person(staff) infomation]' \
+'--no-characters[doesn'\''t get characters infomation]' \
+'-h[Print help information]' \
+'--help[Print help information]' \
+':id -- subject id. can get from search:' \
+&& ret=0
+;;
+(get-ep)
+_arguments "${_arguments_options[@]}" \
+'-h[Print help information]' \
+'--help[Print help information]' \
+':id -- subject id:' \
+&& ret=0
+;;
+(help)
+_arguments "${_arguments_options[@]}" \
+'*::subcommand -- The subcommand whose help message to display:' \
+&& ret=0
+;;
+        esac
+    ;;
+esac
+;;
+(help)
+_arguments "${_arguments_options[@]}" \
+'*::subcommand -- The subcommand whose help message to display:' \
+&& ret=0
+;;
+        esac
+    ;;
+esac
+}
+
+(( $+functions[_dantalian_commands] )) ||
+_dantalian_commands() {
+    local commands; commands=(
+'bgm:cli tools to play with bangumi apis' \
+'help:Print this message or the help of the given subcommand(s)' \
+    )
+    _describe -t commands 'dantalian commands' commands "$@"
+}
+(( $+functions[_dantalian__bgm_commands] )) ||
+_dantalian__bgm_commands() {
+    local commands; commands=(
+'search:search subject in bangumi' \
+'get:try get subject info by id' \
+'get-ep:try get episode info by subject id' \
+'help:Print this message or the help of the given subcommand(s)' \
+    )
+    _describe -t commands 'dantalian bgm commands' commands "$@"
+}
+(( $+functions[_dantalian__bgm__get_commands] )) ||
+_dantalian__bgm__get_commands() {
+    local commands; commands=()
+    _describe -t commands 'dantalian bgm get commands' commands "$@"
+}
+(( $+functions[_dantalian__bgm__get-ep_commands] )) ||
+_dantalian__bgm__get-ep_commands() {
+    local commands; commands=()
+    _describe -t commands 'dantalian bgm get-ep commands' commands "$@"
+}
+(( $+functions[_dantalian__bgm__help_commands] )) ||
+_dantalian__bgm__help_commands() {
+    local commands; commands=()
+    _describe -t commands 'dantalian bgm help commands' commands "$@"
+}
+(( $+functions[_dantalian__help_commands] )) ||
+_dantalian__help_commands() {
+    local commands; commands=()
+    _describe -t commands 'dantalian help commands' commands "$@"
+}
+(( $+functions[_dantalian__bgm__search_commands] )) ||
+_dantalian__bgm__search_commands() {
+    local commands; commands=()
+    _describe -t commands 'dantalian bgm search commands' commands "$@"
+}
+
+_dantalian "$@"

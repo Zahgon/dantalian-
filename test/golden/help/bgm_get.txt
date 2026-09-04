@@ -1,0 +1,13 @@
+dantalian-bgm-get 
+try get subject info by id
+
+USAGE:
+    dantalian bgm get [OPTIONS] <ID>
+
+ARGS:
+    <ID>    subject id. can get from search
+
+OPTIONS:
+    -h, --help             Print help information
+        --no-characters    doesn't get characters infomation
+        --no-persons       doesn't get person(staff) infomation

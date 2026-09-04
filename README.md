@@ -22,9 +22,21 @@ In general, this thing has the following peculiarity:
 (Dantalian will use the whole series info as an alternative).
 * Lack of a poster of a single episode. The media center software will capture it.
 
-## Download
+## Install
 
-See [Download](https://github.com/nanozuki/dantalian/wiki/Download) in our wiki.
+This is a JavaScript port of [nanozuki/dantalian](https://github.com/nanozuki/dantalian), originally written in Rust.
+It is a drop-in replacement: the same CLI, the same `dantalian.toml`, and byte-identical nfo output. It requires
+Node.js 20 or newer and has no runtime dependencies.
+
+```sh
+npm install --global dantalian
+```
+
+Shell completions for zsh, bash, and fish can be generated into a directory of your choice:
+
+```sh
+npm run completions -- <output directory>
+```
 
 ## File structure
 

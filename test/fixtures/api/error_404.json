@@ -1,0 +1,12 @@
+{
+  "status": 404,
+  "body": {
+    "title": "Not Found",
+    "details": {
+      "path": "/v0/subjects/999999999",
+      "method": "GET"
+    },
+    "request_id": "a352abc01f83ef03-LHR",
+    "description": "resource can't be found in the database or has been removed"
+  }
+}

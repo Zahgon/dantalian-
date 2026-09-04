@@ -1,0 +1,11 @@
+dantalian-bgm-search 
+search subject in bangumi
+
+USAGE:
+    dantalian bgm search [KEYWORD]...
+
+ARGS:
+    <KEYWORD>...    search keywords
+
+OPTIONS:
+    -h, --help    Print help information

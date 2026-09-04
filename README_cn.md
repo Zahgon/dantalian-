@@ -18,9 +18,21 @@ dantalian 生成的数据有以下特点：
 * 缺少分类和标签，缺少单集演员和staff名单。这部分将使用全剧的数据代替
 * 缺少单集封面，将有媒体中心自行抓取
 
-## 下载
+## 安装
 
-参见 wiki 中的 [Download](https://github.com/nanozuki/dantalian/wiki/Download).
+本项目是 [nanozuki/dantalian](https://github.com/nanozuki/dantalian)（原以 Rust 编写）的 JavaScript 移植版本，
+可以直接替换原版使用：命令行接口相同，`dantalian.toml` 相同，生成的 nfo 文件逐字节一致。
+需要 Node.js 20 或更高版本，无任何运行时依赖。
+
+```sh
+npm install --global dantalian
+```
+
+可以将 zsh、bash、fish 的补全脚本生成到指定目录：
+
+```sh
+npm run completions -- <输出目录>
+```
 
 ## 文件结构
 

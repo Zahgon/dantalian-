@@ -1,0 +1,35 @@
+name: Test
+on: [push, pull_request]
+jobs:
+  test:
+    name: Test Suite
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        node: ['20', '22', '24']
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Run tests
+        run: npm test
+
+  completions:
+    name: Completions are up to date
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Regenerate shell completions
+        run: npm run completions -- "$RUNNER_TEMP/completions"
+      - name: Fail if they drift from the checked-in reference
+        run: diff -r "$RUNNER_TEMP/completions" test/golden/completions

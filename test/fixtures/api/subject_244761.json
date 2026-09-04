@@ -1,0 +1,284 @@
+{
+  "status": 200,
+  "body": {
+    "date": "2020-02-29",
+    "platform": "剧场版",
+    "images": {
+      "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/f3/244761_tGK1D.jpg",
+      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/f3/244761_tGK1D.jpg",
+      "large": "https://lain.bgm.tv/pic/cover/l/12/f3/244761_tGK1D.jpg",
+      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/f3/244761_tGK1D.jpg",
+      "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/f3/244761_tGK1D.jpg"
+    },
+    "summary": "总有一天不论如何都要一起制作动画——上山高中动画同好会的5人向葫芦屋的甜甜圈如此起誓。她们毕业以后，分别在各自的岗位从事动画制作，并通过《第三飞行少女队》而接近了自己的梦想。\r\n4年后——。在动画的世界找到了自己的容身之所、逐渐成长起来的5人，开始面对新的苦恼和试炼。",
+    "name": "劇場版 SHIROBAKO",
+    "name_cn": "剧场版 白箱",
+    "tags": [
+      {
+        "name": "剧场版",
+        "count": 2263,
+        "total_count": 726786
+      },
+      {
+        "name": "P.A.WORKS",
+        "count": 1835,
+        "total_count": 72651
+      },
+      {
+        "name": "原创",
+        "count": 1500,
+        "total_count": 622496
+      },
+      {
+        "name": "2020",
+        "count": 1003,
+        "total_count": 64126
+      },
+      {
+        "name": "水岛努",
+        "count": 847,
+        "total_count": 19497
+      },
+      {
+        "name": "职场",
+        "count": 834,
+        "total_count": 23040
+      },
+      {
+        "name": "白箱",
+        "count": 799,
+        "total_count": 5179
+      },
+      {
+        "name": "励志",
+        "count": 721,
+        "total_count": 28396
+      },
+      {
+        "name": "业界",
+        "count": 487,
+        "total_count": 1654
+      },
+      {
+        "name": "横手美智子",
+        "count": 242,
+        "total_count": 4685
+      },
+      {
+        "name": "续作",
+        "count": 176,
+        "total_count": 46598
+      },
+      {
+        "name": "喵森",
+        "count": 137,
+        "total_count": 143
+      },
+      {
+        "name": "原创动画",
+        "count": 97,
+        "total_count": 6825
+      },
+      {
+        "name": "水島努",
+        "count": 94,
+        "total_count": 3564
+      },
+      {
+        "name": "日本",
+        "count": 65,
+        "total_count": 299481
+      },
+      {
+        "name": "映画",
+        "count": 41,
+        "total_count": 6312
+      },
+      {
+        "name": "日常",
+        "count": 35,
+        "total_count": 402242
+      },
+      {
+        "name": "动画制作",
+        "count": 32,
+        "total_count": 3352
+      },
+      {
+        "name": "2020年",
+        "count": 31,
+        "total_count": 3047
+      },
+      {
+        "name": "2020年2月",
+        "count": 30,
+        "total_count": 119
+      },
+      {
+        "name": "治愈",
+        "count": 22,
+        "total_count": 302819
+      },
+      {
+        "name": "青春",
+        "count": 21,
+        "total_count": 107658
+      },
+      {
+        "name": "2020年1月",
+        "count": 15,
+        "total_count": 25069
+      },
+      {
+        "name": "百合",
+        "count": 12,
+        "total_count": 404406
+      },
+      {
+        "name": "関口可奈味",
+        "count": 12,
+        "total_count": 209
+      },
+      {
+        "name": "SHIROBAKO",
+        "count": 12,
+        "total_count": 1238
+      },
+      {
+        "name": "动画电影",
+        "count": 12,
+        "total_count": 44035
+      },
+      {
+        "name": "科普",
+        "count": 11,
+        "total_count": 12887
+      },
+      {
+        "name": "浜口史郎",
+        "count": 10,
+        "total_count": 523
+      },
+      {
+        "name": "TV",
+        "count": 9,
+        "total_count": 1408927
+      }
+    ],
+    "infobox": [
+      {
+        "key": "中文名",
+        "value": "剧场版 白箱"
+      },
+      {
+        "key": "别名",
+        "value": [
+          {
+            "v": "Gekijouban Shirobako"
+          },
+          {
+            "v": "Shirobako the Movie"
+          }
+        ]
+      },
+      {
+        "key": "上映年度",
+        "value": "2020年2月29日"
+      },
+      {
+        "key": "官方网站",
+        "value": "http://shirobako-movie.com/"
+      },
+      {
+        "key": "Copyright",
+        "value": "© 2020 劇場版「SHIROBAKO」製作委員会"
+      },
+      {
+        "key": "话数",
+        "value": "1"
+      },
+      {
+        "key": "原作",
+        "value": "武蔵野アニメーション"
+      },
+      {
+        "key": "导演",
+        "value": "水島努"
+      },
+      {
+        "key": "系列构成",
+        "value": "横手美智子"
+      },
+      {
+        "key": "人物原案",
+        "value": "ぽんかん⑧"
+      },
+      {
+        "key": "人物设定",
+        "value": "関口可奈味"
+      },
+      {
+        "key": "总作画监督",
+        "value": "関口可奈味"
+      },
+      {
+        "key": "发行",
+        "value": "ショウゲート"
+      },
+      {
+        "key": "製作",
+        "value": "劇場版「 SHIROBAKO 」製作委員会(博報堂DYミュージック&ピクチャーズ、ハピネット、P.A.WORKS、創通、BSフジ、毎日放送、ムービック、バンダイナムコアーツ、インフィニット)"
+      },
+      {
+        "key": "制片人",
+        "value": "山中隆弘、前田健太、宮村諒、小杉雅博、青井宏之、長谷川嘉範、吉江輝成、池崎佳子；制片：永谷敬之；ラインプロデューサー：相馬紹二"
+      },
+      {
+        "key": "脚本",
+        "value": "横手美智子"
+      },
+      {
+        "key": "美术监督",
+        "value": "垣堺司、竹田悠介"
+      }
+    ],
+    "rating": {
+      "rank": 1026,
+      "total": 6182,
+      "count": {
+        "1": 11,
+        "2": 4,
+        "3": 10,
+        "4": 44,
+        "5": 127,
+        "6": 635,
+        "7": 2235,
+        "8": 2431,
+        "9": 515,
+        "10": 170
+      },
+      "score": 7.5
+    },
+    "total_episodes": 2,
+    "collection": {
+      "on_hold": 198,
+      "dropped": 60,
+      "wish": 3020,
+      "collect": 9439,
+      "doing": 264
+    },
+    "id": 244761,
+    "eps": 1,
+    "meta_tags": [
+      "剧场版",
+      "日本",
+      "原创",
+      "职场"
+    ],
+    "volumes": 0,
+    "series": false,
+    "locked": false,
+    "nsfw": false,
+    "type": 2
+  }
+}
